@@ -1,0 +1,16 @@
+{
+  "name": "payments-of-boostingbd-limited",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.2",
+    "react": "^18.2.0"
+  }
+}
